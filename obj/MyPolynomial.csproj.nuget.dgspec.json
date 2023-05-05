@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/codeyfunston/Library/CloudStorage/OneDrive-Personal/deakin/oo/poly/MyPolynomial/MyPolynomial.csproj": {}
+  },
+  "projects": {
+    "/Users/codeyfunston/Library/CloudStorage/OneDrive-Personal/deakin/oo/poly/MyPolynomial/MyPolynomial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/codeyfunston/Library/CloudStorage/OneDrive-Personal/deakin/oo/poly/MyPolynomial/MyPolynomial.csproj",
+        "projectName": "MyPolynomial",
+        "projectPath": "/Users/codeyfunston/Library/CloudStorage/OneDrive-Personal/deakin/oo/poly/MyPolynomial/MyPolynomial.csproj",
+        "packagesPath": "/Users/codeyfunston/.nuget/packages/",
+        "outputPath": "/Users/codeyfunston/Library/CloudStorage/OneDrive-Personal/deakin/oo/poly/MyPolynomial/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/codeyfunston/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
